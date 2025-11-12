@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="70cd54b9-6315-4b39-93d3-beabd4539d1e">
+  <name>ПосуточнаяАрендаКвартир</name>
+  <synonym>
+    <key>ru</key>
+    <value>Посуточная аренда квартир</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="88e7dc50-6fb8-42c9-a888-0bf8e384afd3"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="04039195-6dab-4370-90ad-c51b3b305680"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="6468e3e7-b48a-4b41-9180-c553a0b87bdd"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="add2fa33-c078-4814-a342-8a5de780fb9b"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="4f27ea8f-ea05-4614-b9ae-8450388ec3d4"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="70ac07b2-338f-4f57-b85c-909346e2aae5"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="34c681e2-b834-47f1-9c48-3e052da351e7"/>
+  <configurationExtensionCompatibilityMode>8.3.27</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.27</compatibilityMode>
+  <languages uuid="f042b8bf-7b27-487b-8f5e-cd43cd606e7f">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+</mdclass:Configuration>
