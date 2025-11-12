@@ -39,4 +39,16 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <catalogs>Catalog.КаналыБронирования</catalogs>
+  <catalogs>Catalog.Клиенты</catalogs>
+  <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.ОбъектыАренды</catalogs>
+  <catalogs>Catalog.Сотрудники</catalogs>
+  <catalogs>Catalog.Тарифы</catalogs>
+  <documents>Document.Бронирование</documents>
+  <documents>Document.Выезд</documents>
+  <documents>Document.Заезд</documents>
+  <documents>Document.Оплата</documents>
+  <documents>Document.РеализацияУслуг</documents>
+  <enums>Enum.ТипКлиента</enums>
 </mdclass:Configuration>

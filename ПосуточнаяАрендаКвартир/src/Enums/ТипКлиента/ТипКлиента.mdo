@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="589006f2-bdfd-42dc-80ce-dceedcf2e017">
+  <producedTypes>
+    <refType typeId="3b1745a0-054e-4d46-a5b4-e0a1e8b6dad7" valueTypeId="8ad77faf-cacb-4869-aa52-0ae94f077237"/>
+    <listType typeId="35417827-e837-4c7c-a332-069c55e2a466" valueTypeId="9f038b20-2863-464d-899a-00d1e68b83cc"/>
+    <managerType typeId="bc826cf7-63eb-47ac-bb63-95f943efb940" valueTypeId="04842c59-9df4-4d70-9dbd-7d09e989d1d7"/>
+  </producedTypes>
+  <name>ТипКлиента</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тип клиента</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="032a2a6d-263d-4297-97d2-cd08d51fa490">
+    <name>ФизическоеЛицо</name>
+    <synonym>
+      <key>ru</key>
+      <value>Физическое лицо</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="3f1cfd71-e4bf-42bf-ad18-a1ca59de770e">
+    <name>ЮридическоеЛицо</name>
+    <synonym>
+      <key>ru</key>
+      <value>Юридическое лицо</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

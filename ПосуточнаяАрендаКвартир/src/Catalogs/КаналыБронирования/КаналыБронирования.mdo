@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="1fac45ca-178a-4351-b2ab-4a975bfd5437">
+  <producedTypes>
+    <objectType typeId="4b1f53fa-9d7c-4755-85f9-af0e8e77d6b8" valueTypeId="4972d62b-c8a8-4161-bc2c-71df51f01979"/>
+    <refType typeId="d289c4b8-0585-4ccc-b8d0-4f200020940d" valueTypeId="c875db0b-5123-4794-8350-ce14e424631d"/>
+    <selectionType typeId="a5209aa3-37d4-4e79-988f-3e8e4564a404" valueTypeId="63a8e9ef-fd2e-4f81-9991-88b7b62104e2"/>
+    <listType typeId="07d854c6-157e-4e61-ab22-b9f1f50a3e32" valueTypeId="c6575039-928c-4f85-9c32-b98cfdb797c3"/>
+    <managerType typeId="3eb9d332-4754-4d74-a6a7-16aa4d6b9b50" valueTypeId="0abd2ada-8e9a-4cf3-812f-0b0bb18776df"/>
+  </producedTypes>
+  <name>КаналыБронирования</name>
+  <synonym>
+    <key>ru</key>
+    <value>Каналы бронирования</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.КаналыБронирования.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.КаналыБронирования.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="7d9d961e-fcfa-4db2-86f1-d6e909637919">
+    <name>НаименованиеКаналаБронирования</name>
+    <synonym>
+      <key>ru</key>
+      <value>Наименование канала бронирования</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+  <attributes uuid="cf8930b7-ae6e-42f6-91c3-154b437853d7">
+    <name>Активен</name>
+    <synonym>
+      <key>ru</key>
+      <value>Активен</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Catalog>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e17b8121-ed17-47b0-b2af-d68c79d6cad9">
+  <producedTypes>
+    <objectType typeId="e2a522dc-6d63-490e-9985-d39826193e49" valueTypeId="8388789f-1bb3-430c-8689-dce814eb1873"/>
+    <refType typeId="cc5ff727-a196-462b-9831-01f6ef4f623a" valueTypeId="a9f09eca-d70d-4e58-a9d1-c011d0d91c1f"/>
+    <selectionType typeId="f81ffe08-229b-4542-9a1a-a939bd079fde" valueTypeId="0276c8c8-e31f-43a6-a2b9-aa25e11d25c0"/>
+    <listType typeId="6e6afbc1-6aaf-4ac3-9450-ceb86f77311b" valueTypeId="79c5362a-d82f-41e2-8222-f336febfd546"/>
+    <managerType typeId="7175c661-154b-49f2-b209-6ad238deb1f0" valueTypeId="c0040fc6-1a17-4922-a242-6491d31afe9c"/>
+  </producedTypes>
+  <name>Бронирование</name>
+  <synonym>
+    <key>ru</key>
+    <value>Бронирование</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.Бронирование.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>

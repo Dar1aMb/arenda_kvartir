@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4a9ee016-c791-4a7b-91fa-9307179098ff">
+  <producedTypes>
+    <objectType typeId="a637ea42-6b13-4ca6-beb1-69af770240e0" valueTypeId="537d3c3e-fa0a-4fa5-b410-96854c6693fe"/>
+    <refType typeId="66751929-e66f-4cbf-8ba4-5620c117b215" valueTypeId="f81a3542-ce24-402a-8c5b-7117b767ae81"/>
+    <selectionType typeId="32ba59e5-fb2f-4081-a6f1-b7f636b2c69a" valueTypeId="b578d726-9730-4422-bee8-510a8fe6bc21"/>
+    <listType typeId="7b3c8c21-7843-4dfb-8d05-c9e9b4a9dfde" valueTypeId="41f15f0f-4baa-402c-927d-81eaad14dafb"/>
+    <managerType typeId="45e05021-aec2-4f0b-8fc1-646e63ae74b8" valueTypeId="1b7657a0-c976-47f2-ac3a-38e33845280c"/>
+  </producedTypes>
+  <name>ОбъектыАренды</name>
+  <synonym>
+    <key>ru</key>
+    <value>Объекты аренды</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.ОбъектыАренды.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.ОбъектыАренды.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
