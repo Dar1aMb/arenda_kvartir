@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7923ae91-bccf-48cc-a406-52450dfd3968">
+  <producedTypes>
+    <refType typeId="e48c1596-76df-436b-8751-080f234edc95" valueTypeId="ab0573e6-157c-4e4a-a822-f57d562d967e"/>
+    <listType typeId="1774e0ec-5143-4533-988e-12040ba85426" valueTypeId="2e86c2d0-32f1-4f18-9f40-334390b3d4d1"/>
+    <managerType typeId="20fdd2bb-18b4-464c-a8e8-57bfa03ce1ac" valueTypeId="545a5eeb-e3cc-4009-8275-d347e7d7d457"/>
+  </producedTypes>
+  <name>СтатусБронирования</name>
+  <synonym>
+    <key>ru</key>
+    <value>Статус бронирования</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="28f77d1e-f429-4b3d-b97d-3846ecdff098">
+    <name>Черновик</name>
+    <synonym>
+      <key>ru</key>
+      <value>Черновик</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="f63e670d-4161-4dd3-b23c-a96810815bd8">
+    <name>ОжидаетПодтверждения</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ожидает подтверждения</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="1b697ec2-c988-4a3a-8a04-9152c1ffc710">
+    <name>Подтверждено</name>
+    <synonym>
+      <key>ru</key>
+      <value>Подтверждено</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="f2825917-9045-4014-b36e-37461993e3c9">
+    <name>ГостьЗаехал</name>
+    <synonym>
+      <key>ru</key>
+      <value>Гость заехал</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="2e95881e-dade-42d5-924e-dfe875870ab8">
+    <name>ГостьВыехал</name>
+    <synonym>
+      <key>ru</key>
+      <value>Гость выехал</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="c306cc04-ef22-4496-8ca4-a22459f04ab1">
+    <name>Отменено</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отменено</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="77a2a9bf-44dd-48c5-9e29-a9d82f61c04f">
+    <name>НеЗаехал</name>
+    <synonym>
+      <key>ru</key>
+      <value>Не заехал</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

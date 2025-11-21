@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="60c74b90-4361-4f6f-9446-c4817a2c5a38">
+  <producedTypes>
+    <refType typeId="0b72a51e-0c83-4db6-a44a-2e7f4e9e5b10" valueTypeId="5f4a3187-4be7-477a-b0b6-0a7d8773da07"/>
+    <listType typeId="10821593-6fc9-47b4-bbe8-ff6cb9a47f8b" valueTypeId="e2a4fefe-cb67-4deb-bbc4-8fe3ab28749d"/>
+    <managerType typeId="c2754603-7775-42b0-868c-61668880e02c" valueTypeId="8ca1e2eb-38e4-4b75-a4e8-417fd2e7ff99"/>
+  </producedTypes>
+  <name>Должности</name>
+  <synonym>
+    <key>ru</key>
+    <value>Должности</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>
