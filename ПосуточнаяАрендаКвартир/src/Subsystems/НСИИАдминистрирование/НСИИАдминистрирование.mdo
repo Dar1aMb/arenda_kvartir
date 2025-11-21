@@ -7,4 +7,15 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.Сотрудники</content>
+  <content>Catalog.ОбъектыАренды</content>
+  <content>Catalog.Номенклатура</content>
+  <content>Catalog.Клиенты</content>
+  <content>Catalog.КаналыБронирования</content>
+  <content>Enum.СтатусБронирования</content>
+  <content>Enum.ТипКлиента</content>
+  <content>Enum.ВидНоменклатуры</content>
+  <content>Enum.Должности</content>
+  <content>InformationRegister.ЦеныНоменклатуры</content>
+  <content>Document.УстановкаЦенНоменклатуры</content>
 </mdclass:Subsystem>

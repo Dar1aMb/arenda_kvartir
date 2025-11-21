@@ -43,6 +43,16 @@
   <subsystems>Subsystem.НСИИАдминистрирование</subsystems>
   <subsystems>Subsystem.Отчёты</subsystems>
   <subsystems>Subsystem.Продажи</subsystems>
+  <roles>Role.ДобавлениеИзменениеДокументовБронирования</roles>
+  <roles>Role.ДобавлениеИзменениеДокументовПродажи</roles>
+  <roles>Role.ДобавлениеИзменениеНСИ</roles>
+  <roles>Role.ЗапускВебКлиента</roles>
+  <roles>Role.ЗапускМобильногоКлиента</roles>
+  <roles>Role.ЗапускТонкогоКлинета</roles>
+  <roles>Role.ПолныеПрава</roles>
+  <roles>Role.ЧтениеДокументовБронирования</roles>
+  <roles>Role.ЧтениеДокументовПродажи</roles>
+  <roles>Role.ЧтениеНСИ</roles>
   <catalogs>Catalog.КаналыБронирования</catalogs>
   <catalogs>Catalog.Клиенты</catalogs>
   <catalogs>Catalog.Номенклатура</catalogs>
@@ -53,7 +63,11 @@
   <documents>Document.Заезд</documents>
   <documents>Document.Оплата</documents>
   <documents>Document.РеализацияУслуг</documents>
+  <documents>Document.УстановкаЦенНоменклатуры</documents>
+  <enums>Enum.ВидНоменклатуры</enums>
   <enums>Enum.Должности</enums>
   <enums>Enum.СтатусБронирования</enums>
   <enums>Enum.ТипКлиента</enums>
+  <informationRegisters>InformationRegister.ЦеныНоменклатуры</informationRegisters>
+  <accumulationRegisters>AccumulationRegister.ПродажиУслуг</accumulationRegisters>
 </mdclass:Configuration>

@@ -7,4 +7,13 @@
   </synonym>
   <includeHelpInContents>true</includeHelpInContents>
   <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Document.Выезд</content>
+  <content>Document.Заезд</content>
+  <content>Document.Бронирование</content>
+  <content>Catalog.Клиенты</content>
+  <content>Catalog.ОбъектыАренды</content>
+  <content>Catalog.Номенклатура</content>
+  <content>Catalog.КаналыБронирования</content>
+  <content>Enum.СтатусБронирования</content>
+  <content>Enum.ТипКлиента</content>
 </mdclass:Subsystem>

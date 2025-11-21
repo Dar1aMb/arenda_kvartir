@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4b32a4de-ccb2-4e2a-b9e7-5a553d7b4996">
+  <name>ЗапускТонкогоКлинета</name>
+  <synonym>
+    <key>ru</key>
+    <value>Запуск тонкого клинета</value>
+  </synonym>
+</mdclass:Role>
