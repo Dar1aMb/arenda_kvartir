@@ -210,4 +210,16 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
+  <commands uuid="373e4b9d-2892-4f1a-b5c5-60393175d60c">
+    <name>ДоговорАренды</name>
+    <synonym>
+      <key>ru</key>
+      <value>Договор аренды</value>
+    </synonym>
+    <group>FormCommandBarImportant</group>
+    <commandParameterType>
+      <types>DocumentRef.Бронирование</types>
+    </commandParameterType>
+    <representation>Auto</representation>
+  </commands>
 </mdclass:Document>

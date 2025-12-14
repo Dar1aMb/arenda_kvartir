@@ -10,7 +10,7 @@
 			<value>true</value>
 		</right>
 		<right>
-			<name>MainWindowModeNormal</name>
+			<name>MainWindowModeEmbeddedWorkplace</name>
 			<value>true</value>
 		</right>
 	</object>
