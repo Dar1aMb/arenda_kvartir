@@ -18,4 +18,5 @@
   <content>Enum.Должности</content>
   <content>InformationRegister.ЦеныНоменклатуры</content>
   <content>Document.УстановкаЦенНоменклатуры</content>
+  <content>InformationRegister.ЦеныАренды</content>
 </mdclass:Subsystem>

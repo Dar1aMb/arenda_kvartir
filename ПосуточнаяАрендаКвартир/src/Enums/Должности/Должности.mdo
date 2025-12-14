@@ -12,4 +12,18 @@
   </synonym>
   <quickChoice>true</quickChoice>
   <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="dd677bcd-b2fa-4746-bb03-071194c1754a">
+    <name>Администратор</name>
+    <synonym>
+      <key>ru</key>
+      <value>Администратор</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="183c339a-d9f6-4dad-be33-df4c8a7d44d1">
+    <name>МенеджерПоАренде</name>
+    <synonym>
+      <key>ru</key>
+      <value>Менеджер по аренде</value>
+    </synonym>
+  </enumValues>
 </mdclass:Enum>

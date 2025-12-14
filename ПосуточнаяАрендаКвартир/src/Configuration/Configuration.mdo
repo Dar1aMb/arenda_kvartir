@@ -43,6 +43,7 @@
   <subsystems>Subsystem.НСИИАдминистрирование</subsystems>
   <subsystems>Subsystem.Отчёты</subsystems>
   <subsystems>Subsystem.Продажи</subsystems>
+  <sessionParameters>SessionParameter.ТекущийПользователь</sessionParameters>
   <roles>Role.ДобавлениеИзменениеДокументовБронирования</roles>
   <roles>Role.ДобавлениеИзменениеДокументовПродажи</roles>
   <roles>Role.ДобавлениеИзменениеНСИ</roles>
@@ -68,6 +69,7 @@
   <enums>Enum.Должности</enums>
   <enums>Enum.СтатусБронирования</enums>
   <enums>Enum.ТипКлиента</enums>
+  <informationRegisters>InformationRegister.ЦеныАренды</informationRegisters>
   <informationRegisters>InformationRegister.ЦеныНоменклатуры</informationRegisters>
   <accumulationRegisters>AccumulationRegister.ПродажиУслуг</accumulationRegisters>
 </mdclass:Configuration>
